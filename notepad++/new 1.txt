@@ -1,4 +1,0 @@
-https://www.hyperglance.com/blog/aws-well-architected/
-
-https://wa.aws.amazon.com/wat.map.en.html
-
